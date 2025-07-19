@@ -1,15 +1,17 @@
-# GotTodo
+# GotTodo 🦀
 
 A minimal, terminal-based todo list application built with Rust. GotTodo provides a clean, keyboard-driven interface for managing your tasks without leaving the terminal.
 
+![GotTodo Screenshot](./assets/gottodo_view.png)
+
 ## Features
 
-- ✅ **Add/Delete Tasks** - Create and remove tasks with simple keystrokes
-- 🔄 **Toggle Completion** - Mark tasks as done/undone
-- 👁️ **Hide/Show Interface** - Toggle visibility to work alongside terminal
-- 🆘 **Help System** - Built-in keymap reference
-- 💾 **Persistent Storage** - Tasks saved to `todos.json`
-- 🐛 **Debug Mode** - Optional logging for troubleshooting
+- **Add/Delete Tasks** - Create and remove tasks with simple keystrokes
+- **Toggle Completion** - Mark tasks as done/undone
+- **Hide/Show Interface** - Toggle visibility to work alongside terminal
+- **Help System** - Built-in keymap reference
+- **Persistent Storage** - Tasks saved to `todos.json`
+- **Debug Mode** - Optional logging for troubleshooting
 
 ## Installation
 
